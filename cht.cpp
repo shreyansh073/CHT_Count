@@ -52,6 +52,7 @@ namespace
         // shows the results
         
         imshow( windowName, display);
+        imwrite("output.jpg",display);
         return circles.size();
     }
 }
