@@ -16,7 +16,7 @@ Enter code in the following format:
 1) ./output <input_image.jpg>
 2) <minimum_radius> <maximum_radius>
 3) Adjust the Canny threshold and the Accumulator threshold values
-4) Press 'q' or 'Q' when all circles are detected
+4) Press `q` or `Q` when all circles are detected
 
 ### For example
 This is the sample input image ![input image](http://tatainnoverse.com/challangeImages/1517393608StrawHead.jpg)
@@ -27,7 +27,7 @@ Enter minimum and maximum radius
 
 2)`20 30`
 
-3)Adjust the threshold values ![mat display](https://drive.google.com/open?id=115-a35iDuciOz18qmoirB3t6WlGspK56)
+3)Adjust the threshold values
 
 4)Press `q` or `Q` to quit
 
