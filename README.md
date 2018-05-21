@@ -2,7 +2,7 @@
 Counts the number of circles in an image and geneartes a csv report along with the circles numbered on the input image.
 
 ## Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 
 ### Prerequisites and installation
 OpenCV 2.4: You can follow [these instructions](https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_install/linux_install.html?) for installation.
