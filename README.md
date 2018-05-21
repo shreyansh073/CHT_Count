@@ -20,9 +20,15 @@ Enter code in the following format:
 
 ### For example
 This is the sample input image [input image](https://drive.google.com/open?id=1oU2yEPYkOgQD6LvMlRBltmTWdGGXGDbb)
+
 1)'./output sample.jpg'
+
 Enter minimum and maximum radius
+
 2)'20 30'
+
 3)Adjust the threshold values [mat display](https://drive.google.com/open?id=115-a35iDuciOz18qmoirB3t6WlGspK56)
+
 4)Press q or Q to quit
+
 5)Output image output.jpg and report.csv is generated.
