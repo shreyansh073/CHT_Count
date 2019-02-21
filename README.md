@@ -19,7 +19,9 @@ Enter code in the following format:
 4) Press `q` or `Q` when all circles are detected
 
 ### For example
-This is the sample input image ![input image](http://tatainnoverse.com/challangeImages/1517393608StrawHead.jpg)
+This is the sample input image 
+
+![input image](sample.jpg)
 
 1)`./output sample.jpg`
 
